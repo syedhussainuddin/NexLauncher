@@ -7,10 +7,10 @@
 
     {
       "type": "java",
-      "name": "Current File",
+      "name": "Launch Java Program",
       "request": "launch",
       "mainClass": "App",
-      "vmArgs": "--module-path \"E:\\github\\NexLauncher\\lib\" --add-modules javafx.controls,javafx.fxml"
+      "vmArgs": "--module-path \"E:\\github\\NexLauncher\\lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics"
     },
   ]
 }
